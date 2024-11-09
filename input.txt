@@ -1,0 +1,8 @@
+5
+F100 kerman Tehran 4000 360
+F101 LosAngeles Tehran 3000 420
+F102 Tehran paris 2200 300
+F103 Canada Tehran 3200 480
+F104 belin Tehran 4927527 360
+
+
